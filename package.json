@@ -1,0 +1,24 @@
+{
+  "name": "first_npm_package",
+  "version": "1.0.0",
+  "description": "First NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesameer/creating_npm_package.git"
+  },
+  "keywords": [
+    "First",
+    "NPM",
+    "Package"
+  ],
+  "author": "Sameer Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesameer/creating_npm_package/issues"
+  },
+  "homepage": "https://github.com/mesameer/creating_npm_package#readme"
+}
